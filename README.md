@@ -593,7 +593,13 @@ Ensure that datasets, models, images, and external knowledge sources permit the 
 
 # 📜 License
 
-Add the license corresponding to the final repository and the permissions associated with the datasets, models, images, and medicinal-information sources used by the project.
+## 📜 License
+
+LeafLens is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for the full license text.
+
+> **Note:** The MIT License applies to the project's source code. Datasets, pretrained models, images, plant information, and other third-party materials may be subject to their own licenses and attribution requirements.
 
 ---
 
