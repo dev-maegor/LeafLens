@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="docs/images/leaflens-banner.png" alt="LeafLens Banner" width="900">
+</p>
+
+<p align="center">
+  <strong>Bridging Traditional Knowledge with Cutting-Edge Technology</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Deep%20Learning-2E7D32?style=for-the-badge" alt="AI/ML">
+  <img src="https://img.shields.io/badge/Computer%20Vision-Plant%20Recognition-388E3C?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Species-20%2B-43A047" alt="20+ Species">
+  <img src="https://img.shields.io/badge/Reported%20Accuracy-%3E97%25-2E7D32" alt="Reported Accuracy">
+  <img src="https://img.shields.io/badge/Test%20Accuracy-98.41%25-1B5E20" alt="Test Accuracy">
+  <img src="https://img.shields.io/badge/Expert%20Validation-95%25-558B2F" alt="Expert Validation">
+</p>
+
 # 🌿 LeafLens
 
 ### Bridging Traditional Knowledge with Cutting-Edge Technology
