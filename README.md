@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="docs/images/leaflens-banner.png" alt="LeafLens Banner" width="900">
-</p>
-
-<p align="center">
   <strong>Bridging Traditional Knowledge with Cutting-Edge Technology</strong>
 </p>
 
